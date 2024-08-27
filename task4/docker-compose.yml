@@ -1,4 +1,4 @@
-sservices:
+services:
   back-end:
     build:
       context: ./back-end
